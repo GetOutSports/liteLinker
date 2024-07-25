@@ -4,7 +4,8 @@ const goLinks = {
 	'new': 'add',
 	'edit': 'add',
 	
-	'home': 'https://getout.sport/'
+	'home': 'https://getout.sport/',
+	'qr': 'https://getoutsports.github.io/qr-code/'
 	// add more shortcuts as needed
   };
   
