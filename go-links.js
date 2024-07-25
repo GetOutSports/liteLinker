@@ -20,6 +20,6 @@ const goLinks = {
 	if (redirectURL) {
 	  window.location.href = redirectURL;
 	} else {
-	  document.body.innerHTML = 'Go link not found.';
+	  document.body.innerHTML = 'Go link not found. <a href="go.getout.sport/add">go.getout.sport/add</a>';
 	}
   }
