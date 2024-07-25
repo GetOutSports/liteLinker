@@ -1,6 +1,10 @@
 const goLinks = {
-	'wikirandom': 'https://en.wikipedia.org/wiki/Special:Random',
-	'photographer': 'https://photographe.michelgrolet.fr',
+	// settings
+	'add': 'https://github.com/GetOutSports/go/edit/main/go-links.js',
+	'new': 'add',
+	'edit': 'add',
+	
+	'home': 'https://getout.sport/'
 	// add more shortcuts as needed
   };
   
