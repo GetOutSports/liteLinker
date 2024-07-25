@@ -1,6 +1,6 @@
 const goLinks = {
 	// settings
-	'add': 'https://github.com/GetOutSports/go/edit/main/go-links.js',
+	'add': 'https://github.com/GetOutSports/liteLinker/edit/main/go-links.js',
 	'new': 'add',
 	'edit': 'add',
 	
@@ -20,6 +20,6 @@ const goLinks = {
 	if (redirectURL) {
 	  window.location.href = redirectURL;
 	} else {
-	  document.body.innerHTML = 'Go link not found. <a href="go.getout.sport/add">go.getout.sport/add</a>';
+	  document.body.innerHTML = 'Go link not found. <a href="https://go.getout.sport/add">go.getout.sport/add</a>';
 	}
   }
