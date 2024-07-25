@@ -3,6 +3,9 @@ const goLinks = {
 	'add': 'https://github.com/GetOutSports/liteLinker/edit/main/go-links.js',
 	'new': 'add',
 	'edit': 'add',
+
+	// DO NOT EDIT
+	'apps': 'https://getout.sport/',
 	
 	'home': 'https://getout.sport/',
 	'qr': 'https://getoutsports.github.io/qr-code/'
